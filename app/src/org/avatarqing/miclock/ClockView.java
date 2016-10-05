@@ -28,6 +28,7 @@ import android.view.animation.LinearInterpolator;
 import java.util.Calendar;
 
 public class ClockView extends View {
+	// TODO: 2016/10/5 zzz
 	private static final String TAG = ClockView.class.getSimpleName();
 	private static boolean DEBUG = true;
 
